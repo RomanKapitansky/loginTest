@@ -22,11 +22,6 @@
             <version>6.9.10</version>
             <scope>test</scope>
         </dependency>
-        <dependency>
-            <groupId>org.uncommons</groupId>
-            <artifactId>reportng</artifactId>
-            <version>LATEST</version>
-        </dependency>
     </dependencies>
 
     <build>
