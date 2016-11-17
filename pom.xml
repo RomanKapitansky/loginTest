@@ -35,9 +35,9 @@
                     <systemPropertyVariables>
                         <reporter.debug>false</reporter.debug>
                     </systemPropertyVariables>
-                    <suiteXmlFiles>
-                        <suiteXmlFile>testng.xml</suiteXmlFile>
-                    </suiteXmlFiles>
+                    <!--<suiteXmlFiles>-->
+                        <!--<suiteXmlFile>testng.xml</suiteXmlFile>-->
+                    <!--</suiteXmlFiles>-->
                 </configuration>
             </plugin>
         </plugins>
