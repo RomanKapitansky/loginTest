@@ -10,7 +10,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class BasePage {
-    protected int DEFAULT_WAIT_TIME = 10;
+    protected final int DEFAULT_WAIT_TIME = 10;
     protected WebDriver driver;
 
     public BasePage(WebDriver driver) {
